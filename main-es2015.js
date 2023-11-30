@@ -9332,7 +9332,7 @@ DeviceDescriptionComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["�
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](2, "\u0410\u043F\u0430\u0440\u0430\u0442 \u0435\u043A\u0441\u043F\u0435\u0440\u0442\u043D\u043E\u0433\u043E \u043A\u043B\u0430\u0441\u0443");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](3, "span");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](4, "SIEMENS ACUSON S2000");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](4, "GE VOLUSON S8");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     } if (rf & 2) {
